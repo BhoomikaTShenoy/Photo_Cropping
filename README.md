@@ -13,13 +13,6 @@ Python 3.x
 OpenCV (cv2) library
 PIL (Pillow) library
 
-## Installation
-Install the required libraries:
-
-Copy code
-pip install opencv-python pillow
-Place your input image (pic.jpg) in the specified path.
-
 ## Usage
 Run the script with the input image path and output directory.
 The script detects faces, crops them, and saves the output with a transparent background.

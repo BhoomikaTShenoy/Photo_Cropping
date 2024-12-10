@@ -1,4 +1,4 @@
-# Photo Cropping Project
+# Photo Cropping
 
 ## Overview
 This project detects faces within an image, crops them, and saves the cropped faces with a transparent background. The goal is to ensure the inclusion of the entire face up to the shoulders.

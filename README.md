@@ -19,9 +19,6 @@ The script detects faces, crops them, and saves the output with a transparent ba
 Contributing<br>
 Feel free to fork the project and submit changes via pull requests.<br>
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 OpenCV for face detection.<br>
 PIL (Pillow) for image processing.

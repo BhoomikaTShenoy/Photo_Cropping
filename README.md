@@ -4,7 +4,7 @@
 This project detects faces within an image, crops them, and saves the cropped faces with a transparent background. The goal is to ensure the inclusion of the entire face up to the shoulders.
 
 ## Features
-Face Detection using OpenCV's Haar Cascade model.
+Face Detection using OpenCV's Haar Cascade model.<br>
 Cropped Output with transparent background using PIL (Pillow) library.
 Simple and easy to use script for automatic face cropping.
 
